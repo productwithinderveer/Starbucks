@@ -1,0 +1,103 @@
+product_details,product_id,product_type,product_category
+"Almond & Butterscotch Cookie",1,"Cookies & Muffins",Bakery
+"Java Chip Chocolate Cookie",2,"Cookies & Muffins",Bakery
+"Cranberry Oats Cake",3,"Cookies & Muffins",Bakery
+"Oatmeal & Raisin Cookie",4,"Cookies & Muffins",Bakery
+"Tea Cakes",5,"Cookies & Muffins",Bakery
+"Butter Croissant",6,Pastry,Bakery
+"Dutch Truffle Gateau",8,Pastry,Bakery
+"Chocolate Croissant",50,Pastry,Bakery
+"Ginger Biscotti",61,Biscotti,Bakery
+"Hazelnut Biscotti",62,Biscotti,Bakery
+"Almond Croissant",67,Pastry,Bakery
+Croissant,68,Pastry,Bakery
+"Chocolate Chip Biscotti",80,Biscotti,Bakery
+"Jumbo Savory Scone",83,Pastry,Bakery
+"Oatmeal Scone",87,Pastry,Bakery
+"Scottish Cream Scone",90,Pastry,Bakery
+"Ginger Scone",92,Pastry,Bakery
+"Cranberry Scone",95,Pastry,Bakery
+"Vanilla Cruffin",118,Pastry,Bakery
+"Dark Chocolate (Venti)",44,"Hot Chocolate",Chocolate
+"Dark Chocolate (Grande)",55,"Hot Chocolate",Chocolate
+"Chili Mayan",98,"Hot Chocolate",Chocolate
+"Dark Chocolate",99,"Hot Chocolate",Chocolate
+Espresso,12,Espresso,Coffee
+Cappuccino,13,Espresso,Coffee
+"Cappuccino (Venti)",14,Espresso,Coffee
+"Caffe Latte",16,Espresso,Coffee
+"Caffe Latte (Grande)",17,Espresso,Coffee
+"Freshly Brewed Coffee (Tall)",18,"Brewed Coffee",Coffee
+"Italian Blend (Tall)",20,"Brewed Coffee",Coffee
+"Freshly Brewed Coffee (Venti)",21,"Brewed Coffee",Coffee
+"Freshly Brewed Coffee (Grande)",22,"Brewed Coffee",Coffee
+"Italy Blend (Venti)",23,"Premium Coffee",Coffee
+"Kenya Blend (Grande)",24,"Premium Coffee",Coffee
+"Signature Hot Chocolate (Grande)",35,"Hot Chocolate",Coffee
+"Signature Hot Chocolate (Tall)",36,"Hot Chocolate",Coffee
+"Brazilian (Grande)",38,"Brewed Coffee",Coffee
+"Sustainably Grown Organic (Venti)",39,"Brewed Coffee",Coffee
+"Ouro Brasileiro shot (Espresso Shot)",43,"Espresso Shot",Coffee
+"Ethiopia (Tall)",45,"Brewed Coffee",Coffee
+"Brazilian (Venti)",47,"Brewed Coffee",Coffee
+"Jamaican Coffee River (Grande)",52,"Brewed Coffee",Coffee
+"Our Old Time Diner Blend (Tall)",53,"Brewed Coffee",Coffee
+"Ethiopia (Grande)",56,"Brewed Coffee",Coffee
+"Ethiopia (Venti)",60,"Brewed Coffee",Coffee
+"Brazilian (Tall)",64,"Brewed Coffee",Coffee
+"Jamaican Coffee River (Venti)",65,"Brewed Coffee",Coffee
+"Colombian Medium Roast (Tall)",69,"Brewed Coffee",Coffee
+"Sustainably Grown Organic (Grande)",73,"Brewed Coffee",Coffee
+"Latte (Grande)",77,"Caffe Latte",Coffee
+"Our Old Time Diner Blend (Venti)",81,"Brewed Coffee",Coffee
+"Brazilian - Organic (Tall)",82,"Brewed Coffee",Coffee
+"Colombian Medium Roast (Venti)",84,"Brewed Coffee",Coffee
+"Jamaican Coffee River (Tall)",85,"Brewed Coffee",Coffee
+"Sustainably Grown Organic",89,"Brewed Coffee",Coffee
+"Colombian Medium Roast (Grande)",93,"Brewed Coffee",Coffee
+"Our Old Time Diner Blend (Grande)",94,"Brewed Coffee",Coffee
+Ethiopia,103,"Brewed Coffee",Coffee
+"Primo Espresso Roast",105,Espresso,Coffee
+"Jamaican Coffee River",106,"Brewed Coffee",Coffee
+"Our Old Time Diner Blend",107,"Brewed Coffee",Coffee
+"Civet Cat",108,"Specialty Coffee",Coffee
+"Guatemalan Sustainably Grown",110,"Brewed Coffee",Coffee
+"Colombian Medium Roast",111,"Brewed Coffee",Coffee
+"Espresso Roast",114,Espresso,Coffee
+"Organic Decaf Blend",116,"Brewed Coffee",Coffee
+"I Need My Bean! T-shirt",49,Apparel,Merchandise
+"I Need My Bean! Latte cup",102,Housewares,Merchandise
+"I Need My Bean! Diner mug",115,Housewares,Merchandise
+"India Estates Blend",9,"Premium Beans & Coffee","Premium Beans"
+"India Estates Blend (Venti)",10,"Premium Beans & Coffee","Premium Beans"
+"India Estates Blend (Tall)",11,"Premium Beans & Coffee","Premium Beans"
+"Chocolate Syrup",54,Flavoring,Syrups
+"Sugar-Free Vanilla Syrup",63,Flavoring,Syrups
+"Caramel Syrup",74,Flavoring,Syrups
+"Hazelnut Syrup",100,Flavoring,Syrups
+"Morning Sunrise Chai (Grande)",40,"Chai Tea",Tea
+"Peppermint (Grande)",41,"Herbal Tea",Tea
+"Morning Sunrise Chai (Venti)",42,"Chai Tea",Tea
+"Traditional Blend Chai (Venti)",46,"Chai Tea",Tea
+"Peppermint (Venti)",51,"Herbal Tea",Tea
+"Serenity Green Tea (Venti)",57,"Green Tea",Tea
+"Serenity Green Tea (Grande)",58,"Green Tea",Tea
+"English Breakfast (Grande)",59,"Black Tea",Tea
+"Spicy Eye Opener Chai (Venti)",66,"Chai Tea",Tea
+"Earl Grey Tea",71,"Black Tea",Tea
+"Earl Grey (Grande)",72,"Black Tea",Tea
+"Earl Grey (Venti)",75,"Black Tea",Tea
+"Spicy Eye Opener Chai (Grande)",76,"Chai Tea",Tea
+"Lemon Grass (Grande)",79,"Herbal Tea",Tea
+"Lemon Grass (Venti)",86,"Herbal Tea",Tea
+"English Breakfast (Venti)",88,"Black Tea",Tea
+"Traditional Blend Chai (Grande)",96,"Chai Tea",Tea
+"Peppermint Tea",97,"Herbal Tea",Tea
+"Morning Sunrise Chai",101,"Chai Tea",Tea
+"English Breakfast",104,"Black Tea",Tea
+"Serenity Green Tea",109,"Green Tea",Tea
+"Traditional Blend Chai",112,"Chai Tea",Tea
+"Lemon Grass",113,"Herbal Tea",Tea
+"Spicy Eye Opener Chai",117,"Chai Tea",Tea
+"Green Tea Cream (Venti)",25,"Green Tea",Tea
+"Green Tea Cream (Grande)",26,"Green Tea",Tea

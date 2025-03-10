@@ -1,0 +1,5 @@
+Time_bracket,Labour_Cost_Per_Month,start_time,end_time
+6 AM - 12 PM,125000,6:00:00_AM,12:00:00_PM
+12 PM - 6 PM,125000,12:00:00_PM,6:00:00_AM
+6 PM - 12 AM,125000,6:00:00_AM,12:00:00_PM
+12 AM - 3 AM,75000,12:00:00_PM,3:00:00_AM
